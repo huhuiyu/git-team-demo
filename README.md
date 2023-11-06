@@ -4,3 +4,5 @@
 - `huhuiyu`修改首页
 
 - `master`分支是发布分支，用于发布新版本
+
+- `master`分支是发布分支，只有当develop分支上的代码稳定后才会合并到master分支
